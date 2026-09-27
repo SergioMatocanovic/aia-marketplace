@@ -11,7 +11,7 @@
       "description": "Automated video editing pipeline for Claude Code — transcription, script analysis, b-roll sourcing, and assembly with HyperFrames. Runs entirely locally, optimized for machines without a GPU.",
       "source": {
         "source": "url",
-        "url": "https://github.com/SergioMatocanovic/aia-editor.git"
+        "url": "https://github.com/Platform-AIA/aia-editor.git"
       },
       "category": "video-editing",
       "homepage": "https://platformaia.com/aia-editor"
